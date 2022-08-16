@@ -6,3 +6,11 @@ D:\Visual Studio\Project\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.csp
 D:\Visual Studio\Project\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.csproj.CoreCompileInputs.cache
 D:\Visual Studio\Project\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.exe
 D:\Visual Studio\Project\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.pdb
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\bin\Debug\symbolAndWord.exe.config
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\bin\Debug\symbolAndWord.exe
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\bin\Debug\symbolAndWord.pdb
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.csproj.AssemblyReference.cache
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.csproj.SuggestedBindingRedirects.cache
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.csproj.CoreCompileInputs.cache
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.exe
+D:\Git Hub\symbolAndWord\symbolAndWord\symbolAndWord\obj\Debug\symbolAndWord.pdb

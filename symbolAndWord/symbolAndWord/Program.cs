@@ -12,6 +12,7 @@ namespace symbolAndWord
         {
             string name;
             char symbol;
+            string characterString = "";
 
             Console.Write("Введите имя: ");
             name = Console.ReadLine();
@@ -20,22 +21,11 @@ namespace symbolAndWord
 
             for (int i = 0; i < name.Length + 2; i++)
             {
-                if(i < name.Length + 1)
-                {
-                    Console.Write(symbol);
-                } 
-                else
-                { 
-                    Console.WriteLine(symbol);
-                }
+                characterString += symbol;
             }
-
+            Console.WriteLine(characterString);
             Console.WriteLine($"{symbol}{name}{symbol}");
-
-            for (int i = 0; i < name.Length + 2; i++)
-            {
-                Console.Write(symbol);
-            }
+            Console.WriteLine(characterString);
 
             Console.ReadKey();
         }
